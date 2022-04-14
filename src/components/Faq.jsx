@@ -9,7 +9,13 @@ const Faq = () => {
         },
         {
             title: "What can I do with a United Metaverse Pass?",
-            body: `Only owners will receive exclusive opportunities:`,
+            body: `1. Automatically become members of the private community and get access to various exclusive events ;\n
+            2. Communicate with our team directly including participating in strategy sessions online and offline;\n
+            3. Get early access to all new features of Connect.Club app, including creating a gallery of verified NFT artworks, room constructor, web version, a possibility to launch their membership token that provides access to unique events, and more;\n
+            4. Receive a special role on our Discord with access to exclusive channels and occasional bonus perks;\n
+            5. Get early access to extended analytics of their club;\n
+            6. Opportunity to create a Connect.Club profile through Wallet-verification;\n
+            7. Opportunity to potentially participate in the creation of the Connect.Club DAO from the beginning.`,
         },
         {
             title: "Where can I buy a United Metaverse Pass? ",

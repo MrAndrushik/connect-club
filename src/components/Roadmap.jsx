@@ -41,11 +41,12 @@ const Roadmap = () => {
                         <div className="roadmap__content roadmap__content--2">
                             <p className="roadmap__text">
                                 Although the wider public would still have
-                                access to Connect.Club platform, only Membership
-                                owners will receive exclusive opportunities.
-                                There will only ever be 10 000 NFT for our club
-                                creators. Сonnect.Club Membership will be minted
-                                in April.
+                                access to&nbsp;Connect.Club platform, only
+                                Membership owners will receive exclusive
+                                opportunities. There will only ever
+                                be&nbsp;10&nbsp;000&nbsp;NFT for our club
+                                creators. Сonnect.Club Membership will
+                                be&nbsp;minted in&nbsp;April.
                             </p>
                         </div>
                     </div>
