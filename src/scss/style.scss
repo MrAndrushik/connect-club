@@ -823,6 +823,10 @@ section {
     box-sizing: content-box;
 }
 
+.dropdown__p {
+    margin-bottom: 5px;
+}
+
 .dropdown__body--active {
     margin-top: 20px;
     opacity: 1;

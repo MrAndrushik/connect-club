@@ -44,7 +44,7 @@ const DropdownItem = ({ title, body }) => {
                     </svg>
                 </button>
             </div>
-            <p
+            <div
                 ref={ref}
                 className={
                     isOpen
@@ -52,8 +52,12 @@ const DropdownItem = ({ title, body }) => {
                         : "dropdown__body"
                 }
             >
-                {body}
-            </p>
+                {body.map((item, index) => (
+                    <p key={index} className="dropdown__p">
+                        {item}
+                    </p>
+                ))}
+            </div>
         </div>
     );
 };
