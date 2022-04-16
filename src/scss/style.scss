@@ -825,6 +825,8 @@ section {
 
 .dropdown__p {
     margin-bottom: 5px;
+    font-weight: 300;
+    font-size: 16px;
 }
 
 .dropdown__body--active {
@@ -1680,7 +1682,7 @@ section {
         color: #fafafa;
     }
 
-    .dropdown__body {
+    .dropdown__p {
         font-weight: 300;
         font-size: 14px;
         line-height: 17px;
